@@ -134,6 +134,23 @@ Looping berhenti karena kondisi pilihan != 5 tidak terpenuhi.
 
 ---
 # **OUTPUT**
+---
+Pilihan 1
+<img width="965" height="598" alt="image" src="https://github.com/user-attachments/assets/58ca5477-d7ee-48d4-a023-4f7847b4e32c" />
+
+Pilihan 2
+<img width="1075" height="322" alt="image" src="https://github.com/user-attachments/assets/5f5390ba-db8a-44b9-8050-a72f5c840193" />
+
+Pilihan 3
+<img width="997" height="552" alt="image" src="https://github.com/user-attachments/assets/967f4ac1-eed5-4c63-89fa-423671311d36" />
+
+Pilihan 4
+<img width="649" height="331" alt="image" src="https://github.com/user-attachments/assets/0a27d252-75f6-47c1-9664-8d95b54c09fe" />
+
+Pilihan 5
+<img width="912" height="351" alt="image" src="https://github.com/user-attachments/assets/e13bb898-9d41-40a2-9c6c-e7e34d9ab9dc" />
+
+
 
 
 
